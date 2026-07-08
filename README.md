@@ -193,6 +193,7 @@ Ola-Ride-Booking-Analysis/
 
 # 📷 Dashboard Preview
 
+![Dashboard Preview](https://github.com/Nikhil-Nandugade/Ola-Ride-Booking-Analysis-using-SQL-Power-BI/blob/main/Overview_Ola_Project.png)
 
 ```
 
